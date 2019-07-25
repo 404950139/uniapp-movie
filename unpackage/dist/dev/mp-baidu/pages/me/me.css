@@ -1,0 +1,77 @@
+
+.header.data-v-594b9bb4 {
+	
+	padding:0rpx 30rpx 40rpx 30rpx;
+	
+	
+	background-color:#ffd655;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+}
+.face.data-v-594b9bb4 {
+	width:120rpx;
+	height:120rpx;
+	-webkit-border-radius: 50%;
+	        border-radius: 50%;
+	-webkit-flex-shrink:0;
+	    -ms-flex-negative:0;
+	        flex-shrink:0;
+}
+.info-wrapper.data-v-594b9bb4 {
+	width:80%;
+	margin-left:40rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.nickname.data-v-594b9bb4 {
+	color:#6a5018;
+	font-size:18px;
+	font-weight:bold;
+}
+.regist-login.data-v-594b9bb4 {
+	margin-left:60rpx;
+	margin-top:30rpx;
+}
+.nav-info.data-v-594b9bb4 {
+	color:#a38e62;
+	font-size:14px;
+	margin-top:10rpx;
+}
+.set-wrapper.data-v-594b9bb4 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	    -ms-flex-pack: end;
+	        justify-content: flex-end;
+	width:15%;
+}
+.settings.data-v-594b9bb4 {
+	width:40rpx;
+	height:40rpx;
+}
+
+
+
+
+/*# sourceMappingURL=../../../.sourcemap/mp-baidu/pages/me/me.js.map*/

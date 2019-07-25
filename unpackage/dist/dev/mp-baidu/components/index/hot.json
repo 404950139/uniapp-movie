@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "stars": "/components/index/stars",
+    "praise": "/components/index/praise"
+  },
+  "component": true
+}

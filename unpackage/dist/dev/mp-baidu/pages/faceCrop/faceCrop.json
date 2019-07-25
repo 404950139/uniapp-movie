@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "裁剪图片",
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTextStyle": "white",
+  "component": true,
+  "usingComponents": {}
+}

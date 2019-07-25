@@ -1,0 +1,1 @@
+<view class="search-block data-v-ffebfb38"><view class="search-ico-wrapper data-v-ffebfb38"><image class="search-ico data-v-ffebfb38" src="../../static/icos/search.png"></image></view><input class="search-text data-v-ffebfb38" placeholder="搜索预告" maxlength="10" confirm-type="search" data-event-opts="{{[['confirm',[['searchMe',['$event']]]]]}}" bindconfirm="__e"/></view>

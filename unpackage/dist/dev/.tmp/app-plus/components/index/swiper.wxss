@@ -1,0 +1,10 @@
+
+.carousel.data-v-a707b520 {
+	width:100%;
+	height: 440rpx;
+}
+.carousel image.data-v-a707b520 {
+	width:100%;
+	height:100%;
+}
+

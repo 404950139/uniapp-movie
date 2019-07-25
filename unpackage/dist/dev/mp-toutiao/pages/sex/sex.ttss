@@ -1,0 +1,25 @@
+
+.page-fill.data-v-445b3934 {
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+.radio-sex.data-v-445b3934 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient:vertical;
+	-webkit-box-direction:normal;
+	-webkit-flex-direction:column;
+	    -ms-flex-direction:column;
+	        flex-direction:column;
+}
+.radio-single.data-v-445b3934 {
+	padding:20rpx 20rpx;
+}
+.submitBtn.data-v-445b3934 {
+	width:95%;
+	margin-top:40rpx;
+}
+

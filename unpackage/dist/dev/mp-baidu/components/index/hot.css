@@ -1,0 +1,131 @@
+
+.hot.data-v-7f052e05 {
+	margin-top:12rpx;
+	padding:20rpx;
+	vertical-align: middle;
+}
+.hot-title-wrapper.data-v-7f052e05 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-bottom:12rpx;
+}
+.hot-ico.data-v-7f052e05 {
+	width:30rpx;
+	height:30rpx;
+	margin-top:15rpx;
+}
+.hot-title.data-v-7f052e05 {
+	font-size:20px;
+	margin-left:20rpx;
+	font-weight:bold;
+}
+/* 热门超英 */
+.hot-scroll.data-v-7f052e05 {
+	width:100%;
+	white-space: nowrap;
+}
+.single-poster.data-v-7f052e05 {
+	display: inline-block;
+	margin-right:20rpx;
+}
+.poster-wrapper.data-v-7f052e05 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.poster.data-v-7f052e05 {
+	width:200rpx;
+	height:270rpx;
+}
+.movie-name.data-v-7f052e05 {
+	width:200rpx;
+	margin-top:10rpx;
+	font-size:14px;
+	font-weight:bold;
+	white-space:nowrap;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+}
+/* 热门预告 */
+.hot-movies.data-v-7f052e05 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap:wrap;
+	    -ms-flex-wrap:wrap;
+	        flex-wrap:wrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.hot-movie-single.data-v-7f052e05 {
+	width:350rpx;
+	height:220rpx;
+	margin-top:10rpx;
+}
+/* 猜你喜欢 */
+.guess-u-like.data-v-7f052e05 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.single-like-movie.data-v-7f052e05 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding:30rpx 20rpx;
+}
+.like-movie.data-v-7f052e05 {
+	width:180rpx;
+	height:240rpx;
+	-webkit-border-radius:3%;
+	        border-radius:3%;
+}
+.movie-desc.data-v-7f052e05 {
+	width:340rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient:vertical;
+	-webkit-box-direction:normal;
+	-webkit-flex-direction:column;
+	    -ms-flex-direction:column;
+	        flex-direction:column;
+	padding:0 15rpx;
+}
+.movie-title.data-v-7f052e05 {
+	white-space:nowrap;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+}
+.movie-info.data-v-7f052e05 {
+	color:#808080;
+	font-size:12px;
+}
+
+
+/*# sourceMappingURL=../../../.sourcemap/mp-baidu/components/index/hot.js.map*/

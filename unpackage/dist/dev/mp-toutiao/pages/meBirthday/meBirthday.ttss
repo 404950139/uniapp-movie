@@ -1,0 +1,23 @@
+
+.page-fill.data-v-6d88edf4 {
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+.birth-inpug.data-v-6d88edf4 {
+	background-color:white;
+	height:80rpx;
+	line-height:40rpx;
+	padding-left:20rpx;
+}
+.birthday.data-v-6d88edf4 {
+	background-color:white;
+	height:80rpx;
+	padding-left:20rpx;
+	padding-top:30rpx;
+}
+.submitBtn.data-v-6d88edf4 {
+	width:95%;
+	margin-top:40rpx;
+}
+

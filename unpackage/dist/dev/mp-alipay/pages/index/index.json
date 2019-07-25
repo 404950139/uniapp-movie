@@ -1,0 +1,7 @@
+{
+  "pullRefresh": true,
+  "usingComponents": {
+    "swiper": "/components/index/swiper",
+    "hot": "/components/index/hot"
+  }
+}

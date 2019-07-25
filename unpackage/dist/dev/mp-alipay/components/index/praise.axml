@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['praiseMe',['$event']]]]]}}" class="movie-oper data-v-50214874" onTap="__e"><image class="praise-ico data-v-50214874" src="../../static/icos/praise.png"></image><view class="praise-me data-v-50214874">点赞</view><view class="praise-me animation-opacity data-v-50214874" animation="{{animationData}}">+1</view></view>

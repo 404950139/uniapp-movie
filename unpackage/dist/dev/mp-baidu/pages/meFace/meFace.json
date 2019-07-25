@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "头像上传",
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTextStyle": "white",
+  "component": true,
+  "usingComponents": {}
+}

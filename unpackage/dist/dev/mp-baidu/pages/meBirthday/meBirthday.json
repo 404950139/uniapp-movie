@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改生日",
+  "navigationBarBackgroundColor": "#ffd655",
+  "navigationBarTextStyle": "white",
+  "component": true,
+  "usingComponents": {}
+}

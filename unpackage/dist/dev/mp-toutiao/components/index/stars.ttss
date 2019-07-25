@@ -1,0 +1,18 @@
+
+.movie-score-wrapper.data-v-811d67ce {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.star-ico.data-v-811d67ce {
+	width:20rpx;
+	height:20rpx;
+	margin-top:6rpx;
+}
+.movie-score.data-v-811d67ce {
+	font-size:12px;
+	color:gray;
+	margin-left:8rpx;
+}
+

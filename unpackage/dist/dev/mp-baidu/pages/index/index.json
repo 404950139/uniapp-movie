@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "component": true,
+  "usingComponents": {
+    "swiper": "/components/index/swiper",
+    "hot": "/components/index/hot"
+  }
+}

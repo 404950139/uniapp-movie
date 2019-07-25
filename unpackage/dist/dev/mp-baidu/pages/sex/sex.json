@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改性别",
+  "navigationBarBackgroundColor": "#ffd655",
+  "navigationBarTextStyle": "white",
+  "component": true,
+  "usingComponents": {}
+}
